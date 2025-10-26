@@ -173,7 +173,7 @@ Copy code
 
 ## 🧑‍💻 Developer Info
 
-Author: S. Chandu
+Author: S. Chandra Sekhar
 
 Project Type: AI-assisted medical info system
 
@@ -182,6 +182,8 @@ Backend: Django/Flask REST API
 Database: MySQL / SQLite
 
 Frontend: Flutter / Web UI (optional)
+
+Contact: [E-Mail](kingchandus143@gmail.com)
 
 ---
 
